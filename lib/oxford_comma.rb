@@ -4,6 +4,6 @@ if array.size <=2
 elsif array.size >=3
   array.insert(-2, 'and')
   array.join (", ")
-  arrach.delete_at(-2)
+  array.delete_at(-2)
 end
 end

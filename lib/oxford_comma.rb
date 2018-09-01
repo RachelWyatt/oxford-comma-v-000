@@ -9,7 +9,6 @@ array.join
     array.insert ", "
   end
   array.insert(-1, 'and')
-  array.join
   return array
 end
 end

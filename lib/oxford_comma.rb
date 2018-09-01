@@ -8,6 +8,7 @@ elsif array.size >=3
   array.each do |element|
     array.insert ", "
   end
+  array.join
   return array
 end
 end
